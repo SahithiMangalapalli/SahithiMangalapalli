@@ -1,17 +1,32 @@
-### Hi there 👋
 
-<div id="header" align="center">
-  <img src="[https://dribbble.com/shots/3848396-Character-Typing](https://dribbble.com/shots/3848396-Character-Typing/attachments/10055179?mode=media)" width="100"/>
+
+Hi there 👋
+
+<div id="header">
+  <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/media/104fdca210b0c914e704af5febb91ca8.gif" width="100"/>
 </div>
+
 <div id="badges">
 <a href="https://www.linkedin.com/in/sahithi-mangalapalli/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-### : About Me 
-- 🔭 I’m a CS graduate student at George Mason University 
-- 🌱 I worked as a Systems Software Engineer at Tata Consultancy and Services for 2.6 years. I contributed to the automation of the Organization’s business processes by building effective and efficient highly scalable applications managing business flow. I have made myself work in challenging and competing environments, with the need to devise a solution to problems. I worked with cross-cultural teams, and geographically dispersed Clients which provided me with global exposure to the work environment.I love to work in the development of technically sophisticated and innovative applications. 
-- 📫 Email id : smangala@gmu.edu
+</a>
+  </div> 
+  </div>
+
+### 😄 About Me :
+  
+🔭 I’m a CS graduate student at George Mason University
+
+🌱 I worked as a Systems Software Engineer at Tata Consultancy and Services for 2.6 years
+
+👯 I love getting my hands dirty solving problems and writing code 
+
+💬 Data Structures and Algorithms is my favorite
+
+⚡ My fun activity is to develop projects on Github
+
+📫 Email id : smangala@gmu.edu
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
