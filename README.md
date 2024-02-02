@@ -15,17 +15,17 @@ Hi there 👋
 
 ### 😄 About Me :
   
-🔭 I’m a CS graduate student at George Mason University
+🔭 Writing production-ready code
 
-🌱 I worked as a Systems Software Engineer at Tata Consultancy and Services for 2.6 years
+🌱 Optimizing code for efficiency
 
-👯 I love getting my hands dirty solving problems and writing code 
+👯 Conducting PR reviews
 
-💬 Data Structures and Algorithms is my favorite
+💬 Performing rigourous testing
 
-⚡ My fun activity is to develop projects on Github
+⚡ Deploying changes to production
 
-📫 Email id : smangala@gmu.edu
+📫 Email id : saisahithimangalapalli@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
